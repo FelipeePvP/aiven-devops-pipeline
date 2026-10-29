@@ -1,4 +1,5 @@
 # Pipeline CI/CD - Laboratorio DevOps
+# Validacao do pipeline Docker
 
 """
 Dashboard de Indicadores Econômicos — App Flask
